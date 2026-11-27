@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 
         String name = "Raghu";
-        int age = 23;
+        int age = 26;
         double marks = 89.5;
         boolean isPassed = true;
 
@@ -28,7 +28,7 @@ public class Main {
     public static void main(String[] args) {
 
         var name = "Raghu";
-        var age = 23;
+        var age = 26;
         var marks = 89.5;
         var isPassed = true;
 
@@ -50,7 +50,7 @@ public class Main {
 
         String json = "{\n" +
                       "    \"name\": \"Raghu\",\n" +
-                      "    \"age\": 23,\n" +
+                      "    \"age\": 26,\n" +
                       "    \"course\": \"Java\"\n" +
                       "}";
 
@@ -68,7 +68,7 @@ public class Main {
         String json = """
                 {
                     "name": "Raghu",
-                    "age": 23,
+                    "age": 26,
                     "course": "Java"
                 }
                 """;
